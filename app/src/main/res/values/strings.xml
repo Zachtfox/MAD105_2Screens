@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Final 1</string>
+    <string name="txtTitle">Part 1</string>
+    <string name="txtTitle2">Part 2</string>
+    <string name="txtBtnNext">Next</string>
+
+    <string name="hintStr">Strength</string>
+    <string name="hintDex">Dexterity</string>
+    <string name="hintCon">Constitution</string>
+    <string name="hintInt">Intelligence</string>
+    <string name="hintWis">Wisdom</string>
+    <string name="hintChr">Charisma</string>
+    <string name="hintPro">Proficiency Bonus</string>
+
+    <string name="label">Your Scores:</string>
+    <string name="ins">enter the value of your ability scores below:</string>
+    <string name="txtInfo1">To begin your character sheet, you’ll need to start by making some basic decisions about your character and how you want to play the game. Begin by reading through the available classes, races, and backgrounds in your Player’s handbook.
+After Making your decisions, be sure to note any abilities and proficiencies that come with those selections.
+</string>
+    <string name="txtInfo2">Next fill out the information regarding class, race,background, and level in the box in the upper left-hand corner  of your character sheet.
+The next step is to decide how to prioritize your character attributes - Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma. Think about which ones will benefit your character most or will help you play the game the way you prefer. Some players will simply roll their dice in order of the attributes and not prioritize them at all, it’s all up to you.</string>
+    <string name="txtInfo3">Lastly, you’ll need to calculate the modifiers that your attribute scores grant to you. It’s listed in the graphic.</string>
+
+</resources>
